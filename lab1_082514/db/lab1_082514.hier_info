@@ -1,0 +1,9 @@
+|lab1_082514
+A => inst4.IN0
+A => inst2.IN0
+A => inst3.IN0
+B => inst5.IN0
+B => inst1.IN1
+B => inst3.IN1
+
+
