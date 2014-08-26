@@ -1,14 +1,17 @@
-Analysis & Synthesis Status : Successful - Sun Aug 24 23:43:43 2014
-Quartus II 32-bit Version : 11.1 Build 173 11/01/2011 SJ Web Edition
+Analysis & Synthesis Status : Successful - Mon Aug 25 21:45:25 2014
+Quartus II 64-Bit Version : 14.0.0 Build 200 06/17/2014 SJ Web Edition
 Revision Name : lab1_082514
 Top-level Entity Name : lab1_082514
-Family : Cyclone III
-Total logic elements : 4
-    Total combinational functions : 4
-    Dedicated logic registers : 0
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
 Total registers : 0
 Total pins : 6
 Total virtual pins : 0
-Total memory bits : 0
-Embedded Multiplier 9-bit elements : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
 Total PLLs : 0
+Total DLLs : 0
